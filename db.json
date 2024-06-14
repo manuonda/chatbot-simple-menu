@@ -1,0 +1,182 @@
+[
+  {
+    "ref": "ans_3e6b1ed0-7ad1-4718-9dd9-fbf52385b26e",
+    "keyword": "key_a199ebf9-ce56-460d-b0cb-a6a2fb1fd814",
+    "answer": "Este es el flujo welcome",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 100,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "e8b439ddada1d8827fa2b9bd2d67cdd3",
+    "from": "5493885733589"
+  },
+  {
+    "ref": "fdf44195-41e4-4f8d-8dfe-1312d3c4ac96",
+    "keyword": null,
+    "answer": "Escribiste otra cosa",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493885733589",
+    "refSerialize": "133f073f50a10516083de37f1bb0d63c"
+  },
+  {
+    "ref": "4c971617-ed64-4fe6-a057-d4b0438178b4",
+    "keyword": "e8b439ddada1d8827fa2b9bd2d67cdd3",
+    "answer": "Menu",
+    "options": {},
+    "from": "5493885733589",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "ans_fa5488c9-429f-4ce3-9c74-4cb6d4500a16",
+    "keyword": "key_dfee168d-78d2-4f2d-a68f-4b0e9a14af7a",
+    "answer": "Este es el menu de opciones, elegi opciones 1,2,3 o 0",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "eebe825e30113875555df6440324a7fc",
+    "from": "5493885733589"
+  },
+  {
+    "ref": "abd7058e-c5ae-4e86-b3ef-7e9d0d682b2a",
+    "keyword": "eebe825e30113875555df6440324a7fc",
+    "answer": "1",
+    "options": {},
+    "from": "5493885733589",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_29005c1d-4496-4d30-a6cb-fe13f10b8499",
+    "keyword": "key_ba16a552-3fac-42e1-9a9f-05d871e3030c",
+    "answer": "Este es el menu",
+    "options": {
+      "media": "https://www.pokemon.com/static-assets/content-assets/cms2-es-es/pdf/trading-card-game/rulebook/par_rulebook_es.pdf",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "46df4fedfc27633fd0a8be8f3e7a81df",
+    "from": "5493885733589"
+  },
+  {
+    "ref": "830c530f-2b65-4db3-8b57-8b4fe3c04150",
+    "keyword": "46df4fedfc27633fd0a8be8f3e7a81df",
+    "answer": "Menu",
+    "options": {},
+    "from": "5493885733589",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "ans_fa5488c9-429f-4ce3-9c74-4cb6d4500a16",
+    "keyword": "key_dfee168d-78d2-4f2d-a68f-4b0e9a14af7a",
+    "answer": "Este es el menu de opciones, elegi opciones 1,2,3 o 0",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "eebe825e30113875555df6440324a7fc",
+    "from": "5493885733589"
+  },
+  {
+    "ref": "67105807-3d9f-4dba-9401-ffc63ce81670",
+    "keyword": "eebe825e30113875555df6440324a7fc",
+    "answer": "3",
+    "options": {},
+    "from": "5493885733589",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_5905dfaf-a804-45f9-8e4f-97abc485743a",
+    "keyword": "key_ccabf137-bde5-4cca-b887-da1087165621",
+    "answer": "Este es el flow de consultas",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "c9118d815b1a18d4a460401478e873e6",
+    "from": "5493885733589"
+  },
+  {
+    "ref": "ans_c01dc179-a5ab-4712-8157-3ec289804b13",
+    "keyword": "ans_5905dfaf-a804-45f9-8e4f-97abc485743a",
+    "answer": "Hace tu consulta",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "60eb3c332fb0e6a8de14171fef70a329",
+    "from": "5493885733589"
+  },
+  {
+    "ref": "fad06cc7-b1c6-4060-bb9a-428198eeee34",
+    "keyword": "60eb3c332fb0e6a8de14171fef70a329",
+    "answer": "anime de naurto shipudden",
+    "options": {},
+    "from": "5493885733589",
+    "refSerialize": "1ba51976143e4e346e2761202323075d"
+  },
+  {
+    "ref": "a7e1babd-490f-4dfa-a345-db12fb7c98e9",
+    "keyword": null,
+    "answer": "¡Claro! Si estás buscando recomendaciones sobre anime, te recomendaría \"Naruto Shippuden\". Es la continuación de la serie original \"Naruto\" y sigue las aventuras de Naruto Uzumaki en su camino para convertirse en el mejor ninja y proteger a sus seres queridos. Con emocionantes batallas, personajes interesantes y una historia llena de acción, \"Naruto Shippuden\" es una excelente opción para los amantes del anime. ¡Espero que disfrutes viéndolo! 🍥🔥",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493885733589",
+    "refSerialize": "29002e1d0b6724b94eb2f0a7002a986b"
+  }
+]

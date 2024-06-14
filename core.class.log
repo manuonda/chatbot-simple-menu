@@ -1,0 +1,354 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0465DCACA2EAC781942',
+    participant: undefined
+  },
+  messageTimestamp: 1718371684,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'informacion',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'informacion',
+  from: '5493885733589'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3e6b1ed0-7ad1-4718-9dd9-fbf52385b26e',
+  keyword: 'key_a199ebf9-ce56-460d-b0cb-a6a2fb1fd814',
+  answer: 'Este es el flujo welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e8b439ddada1d8827fa2b9bd2d67cdd3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '71EF44B60E47EBECBBE7D1B872388320',
+    participant: undefined
+  },
+  messageTimestamp: 1718371686,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DA4E6EF83882732222',
+    participant: undefined
+  },
+  messageTimestamp: 1718371689,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Menu',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5493885733589'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fa5488c9-429f-4ce3-9c74-4cb6d4500a16',
+  keyword: 'key_dfee168d-78d2-4f2d-a68f-4b0e9a14af7a',
+  answer: 'Este es el menu de opciones, elegi opciones 1,2,3 o 0',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'eebe825e30113875555df6440324a7fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: 'BB73800046DEDE3EDB7F4F55EAB9FB8C',
+    participant: undefined
+  },
+  messageTimestamp: 1718371690,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0637FBEFE4E073A3AD2',
+    participant: undefined
+  },
+  messageTimestamp: 1718371692,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '776BBCFE3BBEE880B904B5D220E90547',
+    participant: undefined
+  },
+  messageTimestamp: 1718371707,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06352A2C6FE03716EEA',
+    participant: undefined
+  },
+  messageTimestamp: 1718371834,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Menu',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5493885733589'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fa5488c9-429f-4ce3-9c74-4cb6d4500a16',
+  keyword: 'key_dfee168d-78d2-4f2d-a68f-4b0e9a14af7a',
+  answer: 'Este es el menu de opciones, elegi opciones 1,2,3 o 0',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'eebe825e30113875555df6440324a7fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '788ECEBD47946907E3BAC41BB76B6C3A',
+    participant: undefined
+  },
+  messageTimestamp: 1718371835,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB012419EC2E230297DE9',
+    participant: undefined
+  },
+  messageTimestamp: 1718371836,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: 'E92553AD71531C5DF86A5CEC20ABAEE5',
+    participant: undefined
+  },
+  messageTimestamp: 1718371837,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05035A391F56F5D37C1',
+    participant: undefined
+  },
+  messageTimestamp: 1718371844,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'anime de naurto shipudden',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'anime de naurto shipudden',
+  from: '5493885733589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493885733589@s.whatsapp.net',
+    fromMe: false,
+    id: '683BB9437648436CB9064CB81787AF2C',
+    participant: undefined
+  },
+  messageTimestamp: 1718371849,
+  pushName: 'manuonda',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5493885733589'
+}

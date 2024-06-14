@@ -1,0 +1,26 @@
+Hola 👋, ¡Bienvenido a [Nombre del Restaurante]!
+
+Aquí tienes nuestro menú con precios:
+
+Entrantes:
+
+    Ensalada César - Lechuga fresca con crutones, queso parmesano y aderezo César. $8.00
+    Bruschetta - Pan tostado con tomate, albahaca y aceite de oliva. $7.50
+    Sopa del Día - Pregunta a nuestro personal por la opción de hoy. $6.00
+
+Platos Principales:
+4. Filete Mignon - Jugoso filete de res con puré de papas y verduras al vapor. $25.00
+5. Pollo a la Parmesana - Pechuga de pollo empanizada con salsa marinara y queso mozzarella, servida con pasta. $18.00
+6. Risotto de Champiñones - Cremoso risotto con champiñones frescos y parmesano. $16.00
+
+Postres:
+7. Tiramisú - Clásico postre italiano con capas de bizcocho, café y crema de mascarpone. $7.00
+8. Cheesecake de Fresa - Suave cheesecake con una deliciosa capa de fresas frescas. $6.50
+9. Brownie con Helado - Brownie de chocolate caliente servido con una bola de helado de vainilla. $6.00
+
+Bebidas:
+10. Limonada Casera - Refrescante limonada hecha en casa. $3.00
+11. Vino de la Casa - Selección de vinos tinto y blanco. $5.00 por copa
+12. Café Espresso - Café fuerte y aromático. $2.50
+
+Para realizar un pedido, simplemente responde con el número del plato que deseas. Si tienes alguna pregunta o necesitas una recomendación, ¡estamos aquí para ayudarte! 🍽️
