@@ -16,7 +16,7 @@ const promptConsultas = fs.readFileSync(menuPathConsultas,"utf-8");
 
 const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
     .addAnswer('🙌 Hola bienvenido a este *Chatbot*')
-    .addAnswer('Bienvenido a este curso');
+    .addAnswer('Puedes escribir menu para ver los comandos que tienes');
 
 const flowMenuResult = addKeyword(EVENTS.ACTION)
 .addAnswer('Este es el menu',{
